@@ -1,0 +1,19 @@
+{
+  "name": "tatva",
+  "version": "1.0.0",
+  "description": "Sample app with strapi and postgres",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manipal-OSF/TatvaApp.git"
+  },
+  "author": "Kpban",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manipal-OSF/TatvaApp/issues"
+  },
+  "homepage": "https://github.com/Manipal-OSF/TatvaApp#readme"
+}
